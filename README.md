@@ -1,4 +1,8 @@
 # Mashhad-Taxi
-یک وبسایت سفارش تاکسی آنلاین با زبان php
 
-فایل دیتابیس با پسوند sql را در 
+An online taxi ordering website with PHP
+
+first import mashhad_taxi.sql in phpMyAdmin
+
+Admin username: admin
+Admin password: 1234
