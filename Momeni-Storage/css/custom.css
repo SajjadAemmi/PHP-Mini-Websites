@@ -1,0 +1,50 @@
+@font-face 
+{
+    font-family: IRANSans;
+    src: url(fonts/IRAN/IRANSansWeb.woff);
+}
+body 
+{
+    padding-top: 70px;
+    background: radial-gradient(50% 50%, #00BFFF , #00CED1);
+    font-size: 15px;
+    font-family: IRANSans;
+	
+    background-image: url(../images/background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-color: #464646;
+
+}
+nav , .dropdown-menu
+{
+    color: #FFFFFF !important;
+    background-color: #337ab7 !important;
+}
+nav a
+{
+    color: #FFFFFF !important;
+}
+nav .active a
+{
+    background-color: #5cb85c !important;
+}
+.topbutton 
+{
+	height:50px;
+	width:50px;
+	position:fixed;
+	right:20px;
+	bottom:20px;
+	z-index:100;
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.panel
+{
+    background-color: rgba(255,255,255,0.8);
+}
+

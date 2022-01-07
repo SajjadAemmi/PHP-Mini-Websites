@@ -1,19 +1,17 @@
-# Mashhad-Taxi
+# PHP-Examples
+Some useful website projects created by php from scratch.
 
-Mashhad-Taxi is an Iranian vehicle for hire company. Users can request a ride via the web application, by indicating their location and destination. The price of the trip is set beforehand, to eliminate bargaining. this is a popular ride-hailing platform in Iran. This website uses PHP as back-end programming language.
+## [Address Book](Address-Book)
+A website for add, edit and delete contacts
 
+## [Homino-Elnaz](Homino-Elnaz)
+A website for reserve cleaner and worker for home
 
-## usage
-1- Import mashhad_taxi.sql in phpMyAdmin.
+## [Maryam-Film](Maryam-Film)
+A film downloader website with AI based recommender system 
 
-2- open index.php in browser:
-```
-localhost/Mashhad-Taxi/index.php
-```
-Login as Admin with
-```
-username: admin
-password: 1234
-```
+## [Mgh-Social-Network](Mgh-Social-Network)
+A simple Social Network website
 
-![Screen SHot](images\ScreenShot.jpg)
+## [Momeni-Storage](Momeni-Storage)
+A storage manager website with dashboard for generate factors

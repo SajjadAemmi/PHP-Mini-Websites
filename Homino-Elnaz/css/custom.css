@@ -1,0 +1,35 @@
+@import url(fontiran.css);
+
+body 
+{
+    background: linear-gradient(-30deg, rgba(255, 255, 255, .1) 100px, transparent 0), linear-gradient(30deg, rgba(255, 255, 255, .1) 100px, transparent 0), linear-gradient(-30deg, rgba(255, 255, 255, .1) 300px, transparent 0), linear-gradient(30deg, rgba(255, 255, 255, .1) 300px, transparent 0), linear-gradient(0deg, #008d7f 150px, rgba(35, 47, 57, 0.87));
+    font-family: IRANSans !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}
+
+.font{
+    color: white;
+}
+.service
+{
+    min-height: 300px;
+}
+
+.footer
+{
+    background-color:#101010;
+    height: auto;
+    color: white;
+}
+.b 
+{
+    color: black;
+}
+
+#kamrang
+{
+    background-color: rgb(255,255,255,0.5);
+}
