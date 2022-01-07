@@ -22,8 +22,18 @@
     {
         $("#taxi").mouseenter(function()
         {
-
-            setTimeout(function(){ $("#taxi").attr('src','images/taxi2.png'); setTimeout(function(){ $("#taxi").attr('src','images/taxi.png'); setTimeout(function(){ $("#taxi").attr('src','images/taxi2.png'); setTimeout(function(){ $("#taxi").attr('src','images/taxi.png'); }, 250); }, 250); }, 250); }, 250);
+            setTimeout(function(){ 
+              $("#taxi").attr('src','images/taxi2.png'); 
+              setTimeout(function(){ 
+                $("#taxi").attr('src','images/taxi1.png'); 
+                setTimeout(function(){ 
+                  $("#taxi").attr('src','images/taxi2.png'); 
+                  setTimeout(function(){ 
+                    $("#taxi").attr('src','images/taxi1.png'); 
+                  }, 250); 
+                }, 250); 
+              }, 250); 
+            }, 250);
         });
     });
     
@@ -33,7 +43,7 @@
      <div class="col-md-12">
          <div class="row">
             <div class="col-md-4 col-md-offset-4">
-                <img id="taxi" class="img-responsive" src="images/taxi.png">
+                <img id="taxi" class="img-responsive" src="images/taxi1.png">
             </div>
         </div>
         <div class="alert alert-warning" role="alert">
