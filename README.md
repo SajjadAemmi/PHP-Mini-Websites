@@ -1,4 +1,7 @@
 # PHP-Examples
+
+[![PHP Composer](https://github.com/SajjadAemmi/PHP-Mini-Websites/actions/workflows/php.yml/badge.svg)](https://github.com/SajjadAemmi/PHP-Mini-Websites/actions/workflows/php.yml)
+
 Some useful website projects created by php from scratch.
 
 ## [Address Book](Address-Book)
